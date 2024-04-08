@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
+          Edited the code base now.
           <code className={styles.code}>app/page.js</code>
         </p>
         <div>
@@ -85,6 +85,7 @@ export default function Home() {
           <h2>
             Deploy <span>-&gt;</span>
           </h2>
+         
           <p>
             Instantly deploy your Next.js site to a shareable URL with Vercel.
           </p>
